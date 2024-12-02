@@ -96,11 +96,15 @@ print(ttt.x)"""
         self.name = name
         self.age = age
 
-    def say_hello(self):
+    dsay_hello(self):
         return f"السلام، سميتي {self.name} وعندي {self.age} عام."
 
 person1 = Person("أحمد", 25)
-print(person1.say_hello())  # يطبع "السلام، سميتي أحمد وعندي 25 عام.""""
+print(person1.say_hello())  # يطبع "السلام، سميتي أحمد وعندي 25 عام."""
+
+
+
+
 
 
 
